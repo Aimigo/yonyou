@@ -1,0 +1,1 @@
+aimigo init content
