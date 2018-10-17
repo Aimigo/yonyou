@@ -1,2 +1,2 @@
 aimigo init content
-test1
+test1nihao...
